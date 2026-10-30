@@ -1,4 +1,4 @@
-# Spark Table Comparison Tool
+Spark Table Comparison Tool
 
 Универсальный инструмент для сравнения двух таблиц (оригинальной и shadow) при валидации миграции данных.
 
