@@ -1,0 +1,9 @@
+# Core dependencies
+pyspark>=3.4.0
+python-dotenv>=1.0.0
+
+# Optional: for local S3 testing
+# minio>=7.0.0
+
+# Testing (optional)
+pytest>=7.0.0
