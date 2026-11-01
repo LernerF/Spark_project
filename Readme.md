@@ -195,7 +195,7 @@ cp /путь/к/вашему/shadow.csv data/shadow_table.csv
 python run.py
 ```
 
-### Способ 2: Docker (Скоро)
+### Способ 2: Docker
 
 ```bash
 docker build -t table-comparison .
